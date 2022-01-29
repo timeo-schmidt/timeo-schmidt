@@ -1,29 +1,39 @@
 <div align="center">
     <img height="200px" src="assets/timeo.png">
     <h1>Timeo Schmidt</h1>
-    <span>?London, UK - Hamburg, DE</span><br>
+    <span>📍 London, UK - Hamburg, DE</span><br>
     <img height="20px" src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg">
     <a href="https://www.linkedin.com/in/timeo-schmidt-bb0172152/">LinkedIn</a>
 </div>
 
 ---
 
-<div align="center">
-Hi! ??
+<br>
+
+<div>
+Hi! 👋🏼
 <br><br>
-My name is Timeo, I am a student of MEng Electronic and Information Engineering at Imperial College London ??????.
+My name is Timeo, I am a student of MEng Electronic and Information Engineering at Imperial College London 🏛 👨🏼‍🎓 📚.
 <br><br>
 Subjects I specialise in are Machine/Deep Learning, Computer Vision, Robotics and Embedded Systems. I am very passionate to work at the intersection of hardware and software.
 <br><br>
 Please head over to my LinkedIn to get in touch and find out about what I am working on.</div>
 
+<br>
+
 ---
 
-## Technologies I have worked with
+<br>
 
+
+<div>
 <table>   
  <tr>  
- <td>
+     <td colspan="2" style="border: 0;"><h2>Technologies I have worked with</h2>
+     </td>
+    </tr>
+ <tr>  
+ <td style="border: 0;">
      <h2>Frontend</h2>
      <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" height="18px"> HTML
      <br>
@@ -89,7 +99,7 @@ Please head over to my LinkedIn to get in touch and find out about what I am wor
      📚 SciKit Learn
      <br>
  </td>  
-   <td align="center" text-align="center">
+   <td>
      <h2>Engineering</h2>
      🧮 Matlab/Simulink
      <br>
@@ -109,21 +119,23 @@ Please head over to my LinkedIn to get in touch and find out about what I am wor
  </tr>
 <tr><td colspan="2"> ... and learning new technologies every day!</td></tr>
 </table>
+</div>
+
+<br>
 
 ---
 
-
+<br>
 
 ## Stuff that I worked on ...
----
 
 ### Villa Schmidt Online Shop 🛍 ⛱ 🛋
 
-![Villa Schmidt Online Shop](/Users/timeoschmidt/Desktop/timeo-schmidt/assets/showcase-gifs/vs-ui.gif)
+![Villa Schmidt Online Shop](assets/showcase-gifs/vs-ui.gif)
 
 | Key facts        |                                                                                                             |
 | ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| See it in action | <a href="villa-schmidt.de">villa-schmidt.de</a> Launch 03/2022                                              |
+| See it in action | <a href="villa-schmidt.de">villa-schmidt.de</a> Launch                                                      |
 | Stack Used       | Shopware 6: Web, Twig, PHP, Composer, Docker, GitLab CI, SQL, Ubuntu, Elasticsearch                         |
 | Notes            | Re-launch of 15 main sales channels • 1 Million configuration options • 10,000 highly configurable products |
 
@@ -131,7 +143,7 @@ Please head over to my LinkedIn to get in touch and find out about what I am wor
 
 ### Moving-Out.co.uk 📦 🚚 🌍
 
-![Moving-Out.co.uk Website](/Users/timeoschmidt/Desktop/timeo-schmidt/assets/showcase-gifs/moving-out-ldn.gif)
+![Moving-Out.co.uk Website](assets/showcase-gifs/moving-out-ldn.gif)
 
 | Key facts        |                                                                                                               |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -143,7 +155,7 @@ Please head over to my LinkedIn to get in touch and find out about what I am wor
 
 ### Autonomous Cars
 
-![Autonomous Cars](/Users/timeoschmidt/Desktop/timeo-schmidt/assets/showcase-gifs/car-v1.gif)
+![Autonomous Cars](assets/showcase-gifs/car-v1.gif)
 
 | Key facts        |                                                                                                        |
 | ---------------- | ------------------------------------------------------------------------------------------------------ |
