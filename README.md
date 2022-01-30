@@ -168,10 +168,10 @@ Please head over to my LinkedIn to get in touch and find out about what I am wor
 
 ### C Compiler + Assembler
 
-- Designing and implement<ing a C-Compiler in C++
-- Syntax Parsing + Lexing
-- Abstract Syntax Tree Generation
-- MIPS Assembly Generation
+- Designing and implementing a C-Compiler in C++
+- Syntax parsing + lexing
+- Abstract syntax tree generation
+- MIPS assembly generation
 
 <div>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="GitHub" height="18px"> <a href="https://github.com/timeo-schmidt/C90-compiler"> Repo: C90-compiler</a>
@@ -182,8 +182,8 @@ Please head over to my LinkedIn to get in touch and find out about what I am wor
 ### CPU Hardware Design
 
 - Digital hardware design of a high-performance, low-power CPU
-- Project 1: Mu0 CPU Design in Quartus Prime
-- Project 2: MIPS CPU Design in Verilog
+- Project 1: Mu0 CPU design in Intel Quartus Prime
+- Project 2: MIPS CPU Design and testing in Verilog
 
 <div>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="GitHub" height="18px"> <a href="https://github.com/JosiahMendes/MIPS32-T501"> Repo: MIPS32-T501</a>
