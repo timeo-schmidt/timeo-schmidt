@@ -134,7 +134,7 @@ Please head over to my LinkedIn to get in touch and find out about what I am wor
 
 | Key facts        |                                                                                                             |
 | ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| See it in action | <a href="villa-schmidt.de">villa-schmidt.de</a> Launch                                                      |
+| See it in action | <a href="http://villa-schmidt.de">villa-schmidt.de</a> Launch                                                      |
 | Stack Used       | Shopware 6: Web, Twig, PHP, Composer, Docker, GitLab CI, SQL, Ubuntu, Elasticsearch                         |
 | Notes            | Re-launch of 15 main sales channels • 1 Million configuration options • 10,000 highly configurable products |
 
@@ -146,7 +146,7 @@ Please head over to my LinkedIn to get in touch and find out about what I am wor
 
 | Key facts        |                                                                                                               |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- |
-| See it in action | <a href="moving-out.co.uk">moving-out.co.uk</a>                                                               |
+| See it in action | <a href="http://moving-out.co.uk">moving-out.co.uk</a>                                                               |
 | Stack used       | Web, Bootstrap, Firebase, Stripe Payments, Livechat, Social Media Ads                                         |
 | Notes            | State-of-the-art website with beautiful UI/UX • Online booking and quote request flows • Credit card payments |
 
